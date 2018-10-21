@@ -2,4 +2,4 @@
 
 Simple Todo App using React JS
 
-Go to: brihat-rb.github.io/react-todo/
+Go to: https://brihat-rb.github.io/react-todo/
