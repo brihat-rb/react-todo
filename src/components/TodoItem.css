@@ -1,0 +1,43 @@
+.margin {
+  flex: 25%;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+  padding: 10px;
+}
+
+.btn-edit {
+  color: blue;
+}
+
+.btn-delete {
+  color: red;
+}
+
+.btn-ndone {
+  color: green;
+}
+
+.btn-done {
+  color: maroon;
+}
+
+.tick {
+  color: green;
+  font-weight: bolder;
+}
+
+.fade {
+  color: dimgrey;
+  font-size: 8px;
+}
+.fade:hover {
+  content: "anything";
+  color: blue;
+  font-size: 12px;
+}
